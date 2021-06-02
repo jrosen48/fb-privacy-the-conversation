@@ -5,7 +5,7 @@ University of Tennessee, Knoxville
 
 ## Schools and Districts Use Social Media, Too
 
-Schools and school districts in the United States are highly active on social media, using their accounts to share timely information, build community, and highlight staff and students. However, schools' and districts' social media activity may have a downside in the form of potential harm to students' privacy.
+[Schools in the United States are highly active on social media](https://www.tandfonline.com/doi/abs/10.1080/17439884.2018.1504791?journalCode=cjem20), [using their accounts to share timely information, build community, and highlight staff and students](https://osf.io/qpu8v/). However, our research has shown that schools' and districts' social media activity may have a downside in the form of potential harm to students' privacy.
 
 Our research team came to this topic through the back door: We were systematically exploring why districts and schools used social media during the most tumultuous period of the COVID-19 pandemic, in March and April 2020. In the course of this work, we noticed something that surprised us about how Facebook worked: We could view the posts of schools and districts---including posts with images of teachers and students---even when we were not logged in to our personal Facebook accounts. 
 
@@ -29,19 +29,19 @@ When we began to analyze the data [in a study led by University of Tennessee, Kn
 
 ## Why Potential Violations of Students' Privacy May Matter
 
-On the one hand, this study is nitpicking. Many of us already post photos of ourselves and our friends and family (and maybe our children) on social media. 
+On the one hand, this study is nitpicking. Many of us already post photos of ourselves and our friends and family (and maybe our children) on social media. On the other, the accounts of schools and districts are different in important ways from our personal social media accounts---even the social media accounts of individual teachers. 
 
 ### The Public and Persistent Nature of the Posts
 
-On the other, the accounts of schools and districts are different in important ways from our personal social media accounts---even the social media accounts of individual teachers. First, the posts of the schools and districts we studied are _strictly public_ and (practically speaking) publicly available in perpetuity: they do not even require a Facebook account to view. This means that anyone in the world---parents and community members, but also those intending to disturb or even to harass teachers and students--can access and even download their posts.
+The posts of the schools and districts we studied are _strictly public_ and (practically speaking) publicly available in perpetuity: they do not even require a Facebook account to view. This means that anyone in the world---parents and community members, but also those intending to disturb or even to harass teachers and students--can access and even download their posts.
 
 ### Targeting of Individual Students
 
-As a result, students could be targeted for stalking or bullying online and could be identified by searching the posts. The sheer number of students who are identified across districts and schools in the U.S. means that even very rare events could still be taking place much more frequently and easily than we may like.
+Students could be targeted for stalking or bullying online and could be identified by searching the posts. The sheer number of students who are identified across districts and schools in the U.S. means that even very rare events could still be taking place much more frequently and easily than we may like.
 
 ### Identifiable Photos of Students Could Be Accessed By Companies and Advertiseres 
 
-In addition, the consistency with which schools and districts link to their publicly accessible Facebook pages through their websites means that the photos we studied are available to others in such a way that the posts of our individual Facebook are not. One risk presented by this structure and accessibility (through links on schools' and districts' websites to their Facebook pages) is that companies such as [Clearview](https://clearview.ai/) may automatically access this data. Clearview is a facial recognition company that (controversially) collects data from across the Internet at a massive scale and then sells access to the data to law enforcement agencies, who upload photos of suspects of crimes to Clearview; the software returns likely matches with names for the person of interest. Companies like Clearview, and others who may create or purchase databases of photos that can be linked to other data, may readily access identifiable photos of a large number of students---minors---in the United States.
+The consistency with which schools and districts link to their publicly accessible Facebook pages through their websites means that the photos we studied are available to others in such a way that the posts of our individual Facebook are not. One risk presented by this structure and accessibility (through links on schools' and districts' websites to their Facebook pages) is that companies such as [Clearview](https://clearview.ai/) may automatically access this data. Clearview is a facial recognition company that (controversially) collects data from across the Internet at a massive scale and then sells access to the data to law enforcement agencies, who upload photos of suspects of crimes to Clearview. The software returns likely matches with names for the person of interest. Companies like Clearview, and others who may create or purchase databases of photos that can be linked to other data, may readily access identifiable photos of a large number of students---minors---in the United States.
 
 ## What We Can Do About It
 
@@ -57,6 +57,4 @@ Even if one considers the potential harm to be minimal, there are small steps th
 
 Because of the potential for harm, we argue that while we individually and collectively work out what safeguards we will take to protect our privacy, we should [like technology reporter Kara Swisher argues we should *all* be](https://www.nytimes.com/2019/12/24/opinion/location-privacy.html))just a little paranoid about privacy]. We think this should especially be the case when it comes to students, who may not provide explicit permission to be included within posts.
 
-In conclusion, we recognize that the last thing that the teachers and administrators who celebrate their students intend is to cause them harm, and we do _not_ think that districts and schools should stop using social media. 
-
-Instead, we think that the representatives of schools and districts should carefully consider how these accounts are very different from their own. Small steps taken by schools and districts as well as by parents and even students can make sure that the next headlines we read about stolen data or frightening privacy violations do not involve some of the most vulnerable members of our society, kids at school. 
+In conclusion, we recognize that the last thing that the teachers and administrators who celebrate their students intend is to cause them harm, and we do _not_ think that districts and schools should stop using social media. Instead, we think that the representatives of schools and districts should carefully consider how these accounts are very different from their own. Small steps taken by schools and districts as well as by parents and even students can make sure that the next headlines we read about stolen data or frightening privacy violations do not involve some of the most vulnerable members of our society, kids at school. 
