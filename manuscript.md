@@ -1,3 +1,8 @@
+# Schools might inadvertently harm students when they post on social media
+
+[Joshua M. Rosenberg](https://joshuamrosenberg.com)
+University of Tennessee, Knoxville
+
 ## Schools and Districts Use Social Media, Too
 
 Schools and school districts in the United States are highly active on social media, using their accounts to share timely information, build community, and highlight staff and students. However, schools' and districts' social media activity may have a downside in the form of potential harm to students' privacy.
