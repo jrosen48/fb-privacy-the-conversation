@@ -21,7 +21,7 @@ These ideas kicked off a study that started slowly but which built gradually to 
 2. depicted in a photo (*detected*); and,
 3. able to be linked by name and photo (*identified*).
 
-For example, the post below (created for this article through [Generate Status](https://generatestatus.com/fake-facebook-post-generator/) to protect the privacy of students' depicted in the posts we analyzed) would be coded as named, detected, and identified. 
+For example, the post below (created for this article through [Generate Status](https://generatestatus.com/fake-facebook-post-generator/) to protect the privacy of students' depicted in the posts we analyzed) would be coded as named, detected, and identified. Some posts depicted multiple students that were named, detected, and/or identified. 
 
 <img width="485" alt="example-fb-img" src="https://user-images.githubusercontent.com/4596214/120546913-6aec3680-c3be-11eb-8bb6-ff3acc097fb7.png">
     
