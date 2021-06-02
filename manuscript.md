@@ -31,19 +31,17 @@ When we began to analyze the data [in a study led by University of Tennessee, Kn
 
 On the one hand, this study is nitpicking. Many of us already post photos of ourselves and our friends and family (and maybe our children) on social media. 
 
-### These Posts Are Strictly Public 
+### The Public and Persistent Nature of the Posts
 
 On the other, the accounts of schools and districts are different in important ways from our personal social media accounts---even the social media accounts of individual teachers. First, the posts of the schools and districts we studied are _strictly public_ and (practically speaking) publicly available in perpetuity: they do not even require a Facebook account to view. This means that anyone in the world---parents and community members, but also those intending to disturb or even to harass teachers and students--can access and even download their posts.
 
-### Individual Students Could Be Targeted 
+### Targeting of Individual Students
 
 As a result, students could be targeted for stalking or bullying online and could be identified by searching the posts. The sheer number of students who are identified across districts and schools in the U.S. means that even very rare events could still be taking place much more frequently and easily than we may like.
 
 ### Identifiable Photos of Students Could Be Accessed By Companies and Advertiseres 
 
-In addition, the consistency with which schools and districts link to their publicly accessible Facebook pages through their websites means that the photos we studied are available to others in such a way that the posts of our individual Facebook are not. One risk presented by this structure and accessibility (through links on schools' and districts' websites to their Facebook pages) is that companies such as [Clearview](https://clearview.ai/) may automatically access this data.
-
-Clearview is a facial recognition company that (controversially) collects data from across the Internet at a massive scale and then sells access to the data to law enforcement agencies, who upload photos of suspects of crimes to Clearview; the software returns likely matches with names for the person of interest. Companies like Clearview, and others who may create or purchase databases of photos that can be linked to other data, may readily access identifiable photos of a large number of students---minors---in the United States.
+In addition, the consistency with which schools and districts link to their publicly accessible Facebook pages through their websites means that the photos we studied are available to others in such a way that the posts of our individual Facebook are not. One risk presented by this structure and accessibility (through links on schools' and districts' websites to their Facebook pages) is that companies such as [Clearview](https://clearview.ai/) may automatically access this data. Clearview is a facial recognition company that (controversially) collects data from across the Internet at a massive scale and then sells access to the data to law enforcement agencies, who upload photos of suspects of crimes to Clearview; the software returns likely matches with names for the person of interest. Companies like Clearview, and others who may create or purchase databases of photos that can be linked to other data, may readily access identifiable photos of a large number of students---minors---in the United States.
 
 ## What We Can Do About It
 
