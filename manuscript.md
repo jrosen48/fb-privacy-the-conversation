@@ -17,9 +17,13 @@ In sum, we were interested in whether educational institutions might inadvertent
 
 These ideas kicked off a study that started slowly but which built gradually to a conclusion that took us back: Many districts and schools are posting identifiable photos of students on their Facebook accounts so that anyone in the world can view them. For our study, we drew on the [National Center for Education Statistics Common Core of Data](https://nces.ed.gov/ccd/), which includes information about all schools and districts in the United States. We used the website provided through the Common Core of Data to automatically access all Facebook pages linked from schools' and districts' websites, then used the [CrowdTangle platform for researchers and journalists to access public Facebook posts](https://www.crowdtangle.com/). From this collection of 17.9 million posts by 15,728 institutions, we randomly sampled a few hundred and then coded these strictly publicly accessible posts for three things. In particular, we coded for whether students were:
 
-1. named with first and last name;
-2. depicted in a photo (*detectable*); and,
-3. able to be linked by name and photo (*identifiable*).
+1. named with first and last name (*named*);
+2. depicted in a photo (*detected*); and,
+3. able to be linked by name and photo (*identified*).
+
+For example, the post below (created for this article through [Generate Status](https://generatestatus.com/fake-facebook-post-generator/) to protect the privacy of students' depicted in the posts we analyzed) would be coded as named, detected, and identified. 
+
+<img width="485" alt="example-fb-img" src="https://user-images.githubusercontent.com/4596214/120546913-6aec3680-c3be-11eb-8bb6-ff3acc097fb7.png">
     
 When we began to analyze the data [in a study led by University of Tennessee, Knoxville undergraduate student Macy Burchfield](https://osf.io/ujyg2/) that is published in the proceedings of the [Educational Data Mining 2021 conference](https://educationaldatamining.org/edm2021/), we found that there were at least 150,000 identifiable photos of students shared on Facebook across the posts of schools and districts---and possibly as many as more than 1.1 million. 
 
