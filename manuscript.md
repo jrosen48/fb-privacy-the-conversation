@@ -39,7 +39,9 @@ In addition, the consistency with which schools and districts link to their publ
 
 Clearview is a facial recognition company that (controversially) collects data from across the Internet at a massive scale and then sells access to the data to law enforcement agencies, who upload photos of suspects of crimes to Clearview; the software returns likely matches with names for the person of interest. Companies like Clearview, and others who may create or purchase databases of photos that can be linked to other data, may readily access identifiable photos of a large number of students---minors---in the United States.
 
-## What Can We Do About It?
+## What We Can Do About It
+
+The _potential_ threats we raised above could appear far-fetched, and we recognize that the harm to students to this point has not, thankfully, manifested. But, these photos on schools’ and districts’ pages may represent the largest unstructured but accessible collection of identifiable images of minors in the United States, and, if accessed, could pose serious harms in the future. 
 
 Even if one considers the potential harm to be minimal, there are small steps that schools and districts may take that may make a notable difference in whether that potential is present at all:
 
@@ -48,8 +50,6 @@ Even if one considers the potential harm to be minimal, there are small steps th
 3. Finally, opt-in media release policies that contain extensive information about _how_ schools and districts will post about students can be used instead of opt-out policies that place the burden about parents to express that they do not wish for photos of their child to be included in posts on social media. 
 
 ## Conclusion
-
-The _potential_ threats we raised above could appear far-fetched, and we recognize that the harm to students to this point has not, thankfully, manifested. But, these photos on schools’ and districts’ pages may represent the largest unstructured but accessible collection of identifiable images of minors in the United States, and, if accessed, could pose serious harms in the future. 
 
 Because of the potential for harm, we argue that while we individually and collectively work out what safeguards we will take to protect our privacy, we should [like technology reporter Kara Swisher argues we should *all* be](https://www.nytimes.com/2019/12/24/opinion/location-privacy.html))just a little paranoid about privacy]. We think this should especially be the case when it comes to students, who may not provide explicit permission to be included within posts.
 
