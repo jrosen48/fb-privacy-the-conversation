@@ -47,7 +47,7 @@ The consistency with which schools and districts link to their publicly accessib
 
 The _potential_ threats we raised above could appear far-fetched, and we recognize that the harm to students to this point has not, thankfully, manifested. But, these photos on schools’ and districts’ pages may represent the largest unstructured but accessible collection of identifiable images of minors in the United States, and, if accessed, could pose serious harms in the future. 
 
-Even if one considers the potential harm to be minimal, there are small steps that schools and districts may take that may make a notable difference in whether that potential is present at all:
+Even if one considers the potential harm to be minimal, [there are small steps that schools and districts may take](https://osf.io/ujyg2/) that may make a notable difference in whether that potential is present at all:
 
 1. Importantly, schools and districts can refrain from posting students' full names---and from posting readily identifiable portrait photos. 
 2. Schools and districts can also make their pages private. 
