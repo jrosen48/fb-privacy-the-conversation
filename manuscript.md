@@ -32,7 +32,7 @@ While many of us already post photos of ourselves, friends and family – and so
 
 Even if one considers the potential harm of this situation to be minimal, there are small steps that schools may take that could make a notable difference in whether that potential is present at all:
 
-## 1. Refrain from posting students' full names
+### 1. Refrain from posting students' full names
 
 Not posting students' full names will make it much more difficult for individual students to be targeted and for students' data to be sold and linked with other data sources.
 
